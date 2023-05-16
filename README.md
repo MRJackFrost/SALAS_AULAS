@@ -50,8 +50,8 @@ nenhuma
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Nesse projeto criamos um pequeno jogo para o usuario, o programa gera um numero
-aleatório entre 0 e 100 e o usuario deve randomizalos
+Nesse projeto criamos um programa que calcula a media das salas e mostra
+as salas que estão acima da media
 
 ## Funcionalidades ⚙️
 ✔️ Calcular a media
